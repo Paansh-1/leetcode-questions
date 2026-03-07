@@ -12,4 +12,8 @@ mainly involving contests as well as tough questions to keep maintaining consist
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Paansh-1/leetcode-questions/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Paansh-1/leetcode-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 <!---LeetCode Topics End-->
